@@ -8,7 +8,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdou_Niang-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdou-niang-305272159/)
 [![Email](https://img.shields.io/badge/Email-abdouniang30@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:abdouniang30@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Papabdou12-181717?style=flat&logo=github&logoColor=white)](https://github.com/Papabdou12)
-[![Localisation](https://img.shields.io/badge/Dakar,_Sénégal-Disponible_remote-1DA462?style=flat&logo=googlemaps&logoColor=white)](https://github.com/Papabdou12)
+[![Localisation](https://img.shields.io/badge/Dakar,_Sénégal-Disponible_remote-1DA462?style=flat)](https://github.com/Papabdou12)
 
 </div>
 
@@ -16,24 +16,39 @@
 
 ## Qui je suis
 
-Développeur Full Stack basé à Dakar, je construis des **produits numériques concrets** — des APIs sécurisées aux plateformes e-learning en passant par les systèmes de paiement mobile money.
+Full Stack Engineer basé à Dakar, je construis des **produits numériques concrets** — des APIs sécurisées aux plateformes e-learning en passant par les marketplaces et les systèmes de paiement mobile money.
 
-Actuellement chez **Zion Teranga**, je développe et déploie des applications en production :  
-marketplace backend, plateformes Moodle, système de financement participatif avec auth JWT.
-
-Mon objectif : concevoir des systèmes fiables, bien architecturés, utiles pour les utilisateurs africains.
+Actuellement chez **Zion Teranga**, je développe et déploie des applications en production avec une équipe : marketplace, SaaS de gestion d'événements, annuaire d'artisans, API géographique.
 
 > *« La technologie doit être proche de ceux qui l'utilisent. »*
 
 ---
 
-## Projets Réels en Production
+## Projets Professionnels — Zion Teranga
 
-| Projet | Contexte | Stack | Statut |
-|--------|----------|-------|--------|
-| [**EduFlow**](https://github.com/Papabdou12/eduflow-platform) | Plateforme e-learning multi-tenant | Django · Angular · PostgreSQL · Docker | 🔵 Projet réel (code privé) |
-| [**FundAfrica**](https://github.com/Papabdou12/fundafrica) | Financement participatif + paiements africains | Django · DRF · Wave · Orange Money · JWT | 🔵 Projet réel (code privé) |
-| [**DataPulse**](https://github.com/Papabdou12/datapulse-analytics) | Dashboard analytics temps réel | Django Channels · Angular · Redis · Chart.js | 🟡 En développement |
+*Développés en équipe, déployés en production*
+
+| Projet | Description | Stack |
+|--------|-------------|-------|
+| **EvenManager** | SaaS gestion d'événements — invitations QR code, présences temps réel, panel SuperAdmin multi-organisations | Django · Redis · Docker · Nginx |
+| **Majaayala** | Marketplace e-commerce sénégalaise — backend Django + frontend Next.js, sprints Agile | Django · Next.js · PostgreSQL |
+| **Artisans Sénégal** | Annuaire & plateforme de mise en relation des artisans sénégalais | Django · React · TypeScript · Wave |
+| **Géo-Sénégal API** | API REST géographique du Sénégal — 5 niveaux admin, 215 tests, 93% coverage | Next.js · TypeScript · Prisma · Docker |
+| **Sottina** | Plateforme web + API backend NestJS avec auth JWT et RBAC | NestJS · Prisma · PostgreSQL · Swagger |
+| **Shinetolead** | Plateforme e-learning déployée avec Moodle + BigBlueButton | React · Moodle · Vite |
+
+---
+
+## Projets Personnels
+
+*Conçus et développés en autonomie*
+
+| Projet | Description | Stack |
+|--------|-------------|-------|
+| [**AutoParts SEN**](https://github.com/Papabdou12/autoparts-sen) | 1ère marketplace pièces auto au Sénégal — feed TikTok-style, bilingue fr/wolof | Next.js · TypeScript · Wave · Orange Money |
+| [**Philia'Store**](https://github.com/Papabdou12/philia-store) | E-commerce sénégalais PWA — 498 produits, panel admin, 14 régions | React · Supabase · TanStack Query · Wave |
+| [**PowerCodex**](https://github.com/Papabdou12/powercodex-showcase) | Store de produits digitaux pour développeurs francophones | Next.js · TypeScript · Chariow · CI/CD |
+| [**Script Portainer**](https://github.com/Papabdou12/script-portainer) | Script d'installation automatique de Portainer sur VPS | Docker · Bash |
 
 ---
 
@@ -43,15 +58,19 @@ Mon objectif : concevoir des systèmes fiables, bien architecturés, utiles pour
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-![DRF](https://img.shields.io/badge/Django_REST_Framework-092E20?style=flat&logo=django&logoColor=white)
+![DRF](https://img.shields.io/badge/DRF-092E20?style=flat&logo=django&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
 
 **Frontend**
 
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 
 **Bases de Données**
 
@@ -64,32 +83,31 @@ Mon objectif : concevoir des systèmes fiables, bien architecturés, utiles pour
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 
 **Paiements**
 
 ![Wave](https://img.shields.io/badge/Wave_Pay-1DA462?style=flat)
 ![Orange Money](https://img.shields.io/badge/Orange_Money-FF7900?style=flat)
-![JWT](https://img.shields.io/badge/JWT_Auth-000000?style=flat&logo=jsonwebtokens)
+![Stripe](https://img.shields.io/badge/Stripe-626CD9?style=flat&logo=stripe&logoColor=white)
 
 ---
 
 ## Expériences
 
-**Développeur Full Stack** — *Zion Teranga, Dakar* `sept. 2024 → présent`
-- APIs REST sécurisées avec Django et Spring Boot (gestion utilisateurs, auth JWT)
+**Full Stack Engineer** — *Zion Teranga, Dakar* `sept. 2024 → présent`
+- APIs REST sécurisées Django + Spring Boot, auth JWT, RBAC
 - Backend marketplace : Python + PostgreSQL + Redis + Elasticsearch
-- CI/CD automatisé : Docker + GitHub Actions
-- Déploiement de 2 plateformes e-learning Moodle + BigBlueButton
-- Plateforme de financement participatif avec authentification JWT
+- CI/CD automatisé : Docker + GitHub Actions + Nginx
+- Déploiement plateformes e-learning Moodle + BigBlueButton
+- Plateforme de financement participatif avec JWT
 
 **Assistant IT Support & Développeur Web** — *PackAfrica, Dakar* `fév. 2024 → août 2024`
-- Support technique N1/N2 et développement d'applications internes
-- Gestion des utilisateurs et documentation des procédures IT
+- Support technique N1/N2, développement d'applications internes
 
 **Stage Développeur Full Stack** — *Saraya-Tech, Dakar* `déc. 2022 → fév. 2023`
-- APIs RESTful Spring Boot + Angular en méthodologie Agile/Scrum
+- APIs RESTful Spring Boot + Angular, méthodologie Agile/Scrum
 
 ---
 
@@ -108,30 +126,17 @@ Mon objectif : concevoir des systèmes fiables, bien architecturés, utiles pour
 
 ![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=Papabdou12&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)
 
-![Langages principaux](https://github-readme-stats.vercel.app/api/top-langs/?username=Papabdou12&layout=compact&theme=github_dark&hide_border=true&langs_count=6)
+![Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=Papabdou12&layout=compact&theme=github_dark&hide_border=true&langs_count=8)
 
 </div>
 
 ---
 
-## En ce moment
-
-- 🏗️ Développement de plateformes **e-learning et financement participatif** en production chez Zion Teranga
-- 📚 Double certification en cours : **Django Backend** + **Cybersécurité** chez Force-N
-- 🔍 Ouvert à des **opportunités remote** — Développeur Backend / Full Stack
-
----
-
 ## Me contacter
 
-📧 [abdouniang30@gmail.com](mailto:abdouniang30@gmail.com)  
-📱 +221 77 310 35 76  
-💼 [LinkedIn](https://www.linkedin.com/in/abdou-niang-305272159/)  
-📍 Keur Massar, Dakar — disponible en remote
-
----
+📧 [abdouniang30@gmail.com](mailto:abdouniang30@gmail.com) · 📱 +221 77 310 35 76  
+💼 [LinkedIn](https://www.linkedin.com/in/abdou-niang-305272159/) · 📍 Keur Massar, Dakar
 
 <div align="center">
-  <i>Basé à Dakar, Sénégal · Disponible en remote</i><br><br>
-  <b>Construisons quelque chose d'utile.</b>
+  <b>Disponible en remote · Ouvert aux opportunités internationales</b>
 </div>
