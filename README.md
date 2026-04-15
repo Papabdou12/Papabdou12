@@ -31,8 +31,8 @@ Mon objectif : concevoir des systèmes fiables, bien architecturés, utiles pour
 
 | Projet | Contexte | Stack | Statut |
 |--------|----------|-------|--------|
-| [**EduFlow**](https://github.com/Papabdou12/eduflow-platform) | Plateforme e-learning multi-tenant | Django · Angular · PostgreSQL · Docker | 🟢 En production |
-| [**FundAfrica**](https://github.com/Papabdou12/fundafrica) | Financement participatif + paiements africains | Django · DRF · Wave · Orange Money · JWT | 🟢 En production |
+| [**EduFlow**](https://github.com/Papabdou12/eduflow-platform) | Plateforme e-learning multi-tenant | Django · Angular · PostgreSQL · Docker | 🔵 Projet réel (code privé) |
+| [**FundAfrica**](https://github.com/Papabdou12/fundafrica) | Financement participatif + paiements africains | Django · DRF · Wave · Orange Money · JWT | 🔵 Projet réel (code privé) |
 | [**DataPulse**](https://github.com/Papabdou12/datapulse-analytics) | Dashboard analytics temps réel | Django Channels · Angular · Redis · Chart.js | 🟡 En développement |
 
 ---
