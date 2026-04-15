@@ -1,9 +1,9 @@
 <div align="center">
 
 # Abdou Niang
-### Développeur Full Stack · Constructeur de Produits SaaS · FinTech & EdTech
+### Full Stack Engineer & DevOps · FinTech & EdTech
 
-*Je conçois et livre des APIs robustes, des plateformes e-learning et des systèmes de paiement africains*
+*Je code, je déploie et je maintiens — des APIs robustes aux pipelines CI/CD en passant par les systèmes de paiement africains*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdou_Niang-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdou-niang-305272159/)
 [![Email](https://img.shields.io/badge/Email-abdouniang30@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:abdouniang30@gmail.com)
